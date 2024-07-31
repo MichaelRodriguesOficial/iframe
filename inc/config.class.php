@@ -7,6 +7,12 @@
   
    Autor: Javier David Mar�n Zafrilla.
    Fecha: Febrero 2019
+   
+   Plugin Iframe 1.0.3
+   GLPI 10x
+  
+   Autor: Michael Rodrigues
+   Fecha: Julho/2024
 
    ----------------------------------------------------------
  */
@@ -69,7 +75,7 @@ class PluginIframeConfig extends CommonDBTM {
       
 		echo "<div class='center'>";
 		echo "<table class='tab_cadre'>";
-		echo "<tr><th>".__('Configuraci&oacute;n plugin Iframe','Configuraci�n plugin Iframe')."</th></tr>";
+		echo "<tr><th>".__('	','Configuraci�n plugin Iframe')."</th></tr>";
 
 		if (Session::haveRight('plugin_iframe', UPDATE)) {
 		 		   

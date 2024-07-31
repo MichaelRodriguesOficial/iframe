@@ -1,6 +1,6 @@
 # Plugin Iframe para GLPI
 
-O plugin Iframe para GLPI permite adicionar uma nova aba chamada "Gerencia" à página inicial, na qual você pode incluir gráficos do PowerBI usando um Iframe.
+O plugin Iframe para GLPI permite adicionar uma nova aba chamada "Gerencia" à página inicial, na qual você pode incluir gráficos do PowerBI, Metabase e outros usando um Iframe.
 
 ## Recursos
 

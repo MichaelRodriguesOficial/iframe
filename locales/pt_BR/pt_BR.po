@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+# Tradutor: Michael Rodrigues <michael.rodrigues@outlook.com>
+# Data: Julho-2024-
+msgid "Plugin"
+msgstr "Plug-ins"
+
+msgid "Iframe"
+msgstr "Iframe"
+
+msgid "Permisos por iframe"
+msgstr "Permissões por iframe"
+
+msgid "Configuración"
+msgstr "Configuração"
+
+msgid "Ver o modificar iframe"
+msgstr "Ver ou modificar o iframe"
+
+msgid "Gestión de derechos por ifram"
+msgstr "Gestão de direitos por ifram"
+
+msgid "Descripcion"
+msgstr "Descrição"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Activo"
+msgstr "Ativo"
+
+msgid "Fecha de creación"
+msgstr "Dara de criação"
+
+msgid "Fecha de modificación"
+msgstr "Data de modificação"
+
+msgid "Mostrar Iframe"
+msgstr "Mostrar Iframe"
+
+msgid "Name','Names"
+msgstr "Nome',Nomes"
+
+msgid "Last update by"
+msgstr "Atualizado por"
+
+msgid "Create by!"
+msgstr "Criado por"
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Mostrar avisos públicos"
+msgstr "Mostrar avisos públicos"
+
+msgid "name"
+msgstr "nome"
+
+msgid "Configuración plugin Iframe"
+msgstr "Configuração do plugin Iframe"
+
+msgid "Selecciona un iframe para ver o editar sus permisos de acceso por perfiles"
+msgstr "Selecione um iframe para ver ou editar suas permissões de acesso por perfis"
+
+msgid "Más Iframe"
+msgstr "Mais Iframe"

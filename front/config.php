@@ -7,6 +7,13 @@
   
    Autor: Javier David Marín Zafrilla.
    Fecha: Febrero 2019
+   
+   Plugin Iframe 1.0.3
+   GLPI 10x
+  
+   Autor: Michael Rodrigues
+   Fecha: Julho/2024
+   
    ----------------------------------------------------------
  */
 
