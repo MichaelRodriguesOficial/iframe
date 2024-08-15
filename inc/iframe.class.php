@@ -191,7 +191,7 @@ class PluginIframeIframe extends CommonDBTM {
       switch ($item->getType()) {
 
          case 'Central':
-            return _n('Vista Gobernanza', 'Vista Gobernanza', 2, 'iframe');
+            return __('Gerencial', 'Gerencial', 2, 'iframe');
             break;
 	
       }
@@ -259,7 +259,7 @@ class PluginIframeIframe extends CommonDBTM {
 
 	  // Descripción del Iframe
 	  echo "<tr class='tab_bg_1'>";
-	  echo "<th class='left'  colspan='1'>Descripción</th>";
+	  echo "<th class='left'  colspan='1'>Descrição</th>";
 	  echo "<td class='left' colspan='3'><textarea cols='125' rows='3' name='comment'>".
             $this->fields["comment"]."</textarea>";
       echo "</td></tr>";
@@ -274,7 +274,7 @@ class PluginIframeIframe extends CommonDBTM {
 	   
 	  // Selecciona color hexadecimal
 	  echo "<tr class='tab_bg_1'>";
-      echo "<th class='left'  colspan='1'>Color<br>(hexadecimal)</th>";
+      echo "<th class='left'  colspan='1'>Cor<br>(hexadecimal)</th>";
 	  echo "<td class='left'  widht='30px'>";
 	  
 	  	  if (empty($this->fields['color'])) { $color="#000"; } else { $color=$this->fields['color']; }
@@ -316,7 +316,7 @@ class PluginIframeIframe extends CommonDBTM {
 	  echo "</tr>";	   
 	   
 	  echo "<tr class='tab_bg_1'>";
-	  echo "<th class='left'  colspan='1'>Activo</th>";
+	  echo "<th class='left'  colspan='1'>Ativo</th>";
 	  echo "<td class='left'  widht='10px'>";
 	  
        echo "<div class='fa-label'>

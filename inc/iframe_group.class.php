@@ -96,7 +96,7 @@ class PluginIframeIframe_Group extends CommonDBRelation {
 
 
          echo "<table class='tab_cadre_fixe'>";
-         echo "<tr class='tab_bg_2'><th colspan='2'>A&ntilde;adir grupos a los que mostrar Iframe</th></tr>";
+         echo "<tr class='tab_bg_2'><th colspan='2'>Adicionar grupos para exibir o iframe</th></tr>";
 
          echo "<tr class='tab_bg_1'><td class='center'>";
          

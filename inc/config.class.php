@@ -81,12 +81,12 @@ class PluginIframeConfig extends CommonDBTM {
 		 		   
 		 // Gesti�n de iframe
 		   echo "<tr class='tab_bg_1 center'><td>";
-		   echo "<a href='".$CFG_GLPI['root_doc']."/plugins/iframe/front/iframe.php' >".__('Ver o modificar iframe','Ver o modificar iframe')."</a>";
+		   echo "<a href='".$CFG_GLPI['root_doc']."/plugins/iframe/front/iframe.php' >".__('Ver ou modificar iframe','Ver ou modificar iframe')."</a>";
 		   echo "</td/></tr>\n";
 
 		   // Gesti�n de derechos por iframe
 		   echo "<tr class='tab_bg_1 center'><td>";
-		   echo "<a href='".$CFG_GLPI['root_doc']."/plugins/iframe/front/right.form.php' >".__('Gesti&oacute;n de derechos por iframe','Gesti&oacute;n de derechos por iframe')."</a>";
+		   echo "<a href='".$CFG_GLPI['root_doc']."/plugins/iframe/front/right.form.php' >".__('Gestão de direitos por iframe','Gestão de direitos por iframe')."</a>";
 		   echo "</td/></tr>\n";			   
 		}
 

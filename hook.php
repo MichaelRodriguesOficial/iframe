@@ -37,11 +37,11 @@ function plugin_iframe_install() {
 		   {
 			$fichero_install = GLPI_ROOT . '/plugins/iframe/sql/install.sql';
 			if (file_exists($fichero_install)){
-				Session::addMessageAfterRedirect("<strong><font color='green'>Ejecutando fichero: </font><font size='2.5 px'; style='font-style: oblique;' color='#1d05b5'>install.sql</font></strong><br>",true);
+				Session::addMessageAfterRedirect("<strong><font color='green'>Executando o arquivo: </font><font size='2.5 px'; style='font-style: oblique;' color='#1d05b5'>install.sql</font></strong><br>",true);
 				$DB->runFile($fichero_install);
-				Session::addMessageAfterRedirect("<strong><font color='#54850d'>Instalación realizado con Éxito</font><BR><BR>Plugin Iframe versión 1.0.0</strong><br>",true);
+				Session::addMessageAfterRedirect("<strong><font color='#54850d'>Instalação realizada com exito</font><BR><BR>Plugin Iframe versión 1.1.3</strong><br>",true);
 			} else {
-				Session::addMessageAfterRedirect("<strong><font color='#993333'>Error: <br></font><font color='#ef091a'>- No existe el fichero: </font><font size='2.5 px'; style='font-style: oblique;' color='#1d05b5'>install.sql</font></strong><br>",true);
+				Session::addMessageAfterRedirect("<strong><font color='#993333'>Error: <br></font><font color='#ef091a'>- Não existe o arquivo: </font><font size='2.5 px'; style='font-style: oblique;' color='#1d05b5'>install.sql</font></strong><br>",true);
 			}  			
 	}
   

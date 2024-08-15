@@ -56,9 +56,9 @@ function plugin_init_iframe() {
 function plugin_version_iframe() {
 
    return array('name'          => _n('Inline Frame' , 'Inline Frame' ,2, 'Iframe'),
-                'version'        => '1.1.2',
+                'version'        => '1.1.3',
                 'license'        => 'AGPL3',
-                'author'         => '<a href="http://www.carm.es">CARM</a>',
+                'author'         => '<a href="http://www.carm.es">CARM | Michael Rodrigues</a>',
                 'homepage'       => 'http://www.carm.es',
                 'minGlpiVersion' => '9.1');
 }

@@ -53,7 +53,7 @@ if (isset($_POST['delete']) && $warning) {
 echo "<br>";
 echo "<form method='post' action=\"".$_SERVER["PHP_SELF"]."\">";
 echo "<table class='tab_cadre_fixe' align='center'><tr><th colspan='2'>";
-echo __('Selecciona un iframe para ver o editar sus permisos de acceso por perfiles', 'iframe'). "</th></tr>\n";
+echo __('Selecione um iframe para ver ou editar suas permissões de acesso por perfil', 'iframe'). "</th></tr>\n";
 
 echo "<tr class='tab_bg_1'><td align='center'>iframe&nbsp; ";
 PluginIframeIframe::dropdown(array('name' => 'plugin_iframe_iframes_id'));
